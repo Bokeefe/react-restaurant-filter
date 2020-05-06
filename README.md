@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an experiment in receiving data from an API and then adding a UI to filter/sort/search it. The only libraries used were sass and materiel-ui. About an 8 hour project.
+
 ## Available Scripts
 
 In the project directory, you can run:
