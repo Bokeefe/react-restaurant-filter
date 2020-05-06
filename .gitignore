@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # api url
-/src/constants/env.js
+# /src/constants/env.js

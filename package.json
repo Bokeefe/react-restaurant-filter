@@ -52,6 +52,6 @@
   "bugs": {
     "url": "https://github.com/Bokeefe/react-restaurant-filter/issues"
   },
-  "homepage": "https://github.com/Bokeefe/react-restaurant-filter#readme",
+  "homepage": "http://localhost:8080",
   "proxy": "http://localhost:8080"
 }
